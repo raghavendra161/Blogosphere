@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/Blogosphere",
+    "prod_uri":"mysql://root:@localhost/Blogosphere",
+    "fb_url":"https://facebook.com/Blogosphere",
+    "tw_url":"https://twitter.com/Blogosphere",
+    "gh_url": "https://github.com/Blogosphere",
+    "blog_name": "Blogosphere",
+    "tag_line": "The Atmosphere You Need",
+    "gmail-user":"bruuthatsnotevenameme@gmail.com",
+    "gmail-password":"Bruumeme@1234",
+    "about_text": "Blogosphere is a product of lockdown & is Created by Blogosphere Team UPDATE COMING SOON:// You will also be able to Submit your blogs and Stories",
+
+
+    "no_of_posts": 2,
+    "login_image":"login.svg",
+    "admin_user": "raghav",
+    "admin_password": "Raghav682@",
+    "upload_location":"C:\\Users\\Lenovo\\PycharmProjects\\Flask\\static"
+  }
+}
