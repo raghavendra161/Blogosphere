@@ -1,2 +1,2 @@
 # Blogosphere
-Blogosphere is blog which is product of boredom and  lockdown
+Blogosphere is blogging web-app which is product of boredom and  lockdown
